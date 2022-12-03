@@ -1,0 +1,12 @@
+{
+    "movies": [
+        {
+            "title": "avatar",
+            "rating": "8/10"
+        },
+        {
+            "title": "Lion King",
+            "rating": "9.5/10"
+        }
+    ]
+}
